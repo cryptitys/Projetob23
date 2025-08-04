@@ -1,0 +1,13 @@
+body {
+  background-color: #000;
+  color: #00ff00;
+  font-family: monospace;
+  margin: 0;
+  padding: 20px;
+}
+
+.terminal {
+  white-space: pre-wrap;
+  overflow: hidden;
+  font-size: 1.2rem;
+}
